@@ -18,6 +18,15 @@ IngitDB is driven by [IngitDB GuitHub Action](https://github.com/ingitdb/ingitdb
 
 IngitDB is somewhat like static site CMS (*Hugo, Jekyll, etc.*) but a database.
 
+## When use and when not to use IngitDB
+
+While IngitDB can act as a operational database it was not desined for this purpose as it would not be quick and would not scale.
+
+IngitDB was designed and is good for:
+
+- Keeping & providing reference data
+- Settings & metadata storage
+- Data entry & data collection
 
 ## Example database
 
