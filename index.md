@@ -3,7 +3,7 @@
 IngitDB is driven by [IngitDB GuitHub Action](https://github.com/ingitdb/ingitdb-github-action) and supports:
 
 - multi-versioning
-  - comparison between brnaches & versions
+  - comparison between branches & versions
   - mergin of branches
   - restore to any point in a time as a new branch
 - schema definition
