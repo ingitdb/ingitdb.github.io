@@ -2,7 +2,7 @@
 
 IngitDB is a dynamic (*e.g. writable*) but statically hosted database driven by [IngitDB GuitHub Action](https://github.com/ingitdb/ingitdb-github-action).
 
-IngitDB is somewhat like static site CMS (*[Hugo](https://github.com/gohugoio/hugo), [Jekyll](https://github.com/jekyll/jekyll), etc.*) but a database.
+IngitDB is somewhat like static site CMS (*[GitHub Pages](https://pages.github.com/), [Hugo](https://github.com/gohugoio/hugo), [Jekyll](https://github.com/jekyll/jekyll), etc.*) but a database.
 
 ## This means:
 
