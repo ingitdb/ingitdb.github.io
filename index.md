@@ -7,8 +7,11 @@ IngitDB is somewhat like static site CMS (*[GitHub Pages](https://pages.github.c
 ## This means:
 
 - you do not need an application layer to:
-  - edit data in an IngitDB
-  - query data from IngitDB
+  - query data (*HTTP endpoints are provided by GitHub*) 
+  - edit data - you have 3 options:
+    - edit locally & push changes using git
+    - use GitHub API to make changes
+    - use [https://api.ingitdb.com](https://api.ingitdb.com) to make changes
 - there is no out of box access rights separation on per user/data - you either have access to the whole DB or you don't
   - You can create your own GitHub action to restrict **editing** of data
     - In future IngitDB might offer such functionality out of the box 
