@@ -9,6 +9,10 @@ IngitDB is driven by [IngitDB GuitHub Action](https://github.com/ingitdb/ingitdb
 - schema definition
   - check constraints
   - foreign keys & lookup
+  - triggers
+    - on insert
+    - on update
+    - on delete 
   - views
     - filters
     - limited number of fields
@@ -17,7 +21,6 @@ IngitDB is driven by [IngitDB GuitHub Action](https://github.com/ingitdb/ingitdb
     - `group by` operation
       - `having` condition
       - aggregation formulas (`SUM`, `COUNT`, etc.)
-  - triggers
 - transactions
 - webhooks
 - REST endpoints for views and individual records
