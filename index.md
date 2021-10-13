@@ -69,8 +69,17 @@ It that has next sample datasets:
   - [Notes](https://github.com/ingitdb/ingitdb-demo-db/tree/main/collections/todo/notes)
   - [Tags](https://github.com/ingitdb/ingitdb-demo-db/tree/main/collections/todo/tags)
 
-## Open Source
+## It's free to use and is Open Source under [MIT License](https://opensource.org/licenses/MIT)
+
+Below repositories contains source codes of IngitDB components:
 
 - [https://github.com/ingitdb/ingitdb-ts](https://github.com/ingitdb/ingitdb-ts) - IngitDB client in TypeScript
 - [https://github.com/ingitdb/ingitdb-github-action](https://github.com/ingitdb/ingitdb-github-action) - IngitDB engine that performs actions and modifications on commits to a database
 - [https://github.com/ingitdb/ingitdb-schema](https://github.com/ingitdb/ingitdb-schema) - JSON schema definition for `.ingitdb` objects
+
+## Contributors wanted
+
+- Have you found this project useful?
+- Do you have ideas how it can be improved?
+
+Please don't be shy and join as a contributor - pull requests are welcome!
