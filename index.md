@@ -63,13 +63,13 @@ There is a publicly available IngitDB demo database - [https://github.com/ingitd
 
 You can alsow browser data in [https://ingitdb.com/app/at/github.com/repo/ingitdb-demo-db~main@ingitdb](https://ingitdb.com/app/at/github.com/repo/ingitdb-demo-db~main@ingitdb)
 
-It that has next sample datasets:
+The demo database has few sample datasets:
 
-- [Countries](https://github.com/ingitdb/ingitdb-demo-db/tree/main/collections/countries)
+- [**Countries**](https://github.com/ingitdb/ingitdb-demo-db/tree/main/collections/countries) [[schema](https://github.com/ingitdb/ingitdb-demo-db/blob/main/.ingitdb/collections/countries/countries.json)]
   - Cities 
 - **ToDo**
-  - [Notes](https://github.com/ingitdb/ingitdb-demo-db/tree/main/collections/todo/notes)
-  - [Tags](https://github.com/ingitdb/ingitdb-demo-db/tree/main/collections/todo/tags)
+  - [**Notes**](https://github.com/ingitdb/ingitdb-demo-db/tree/main/collections/todo/notes) [[schema](https://github.com/ingitdb/ingitdb-demo-db/blob/main/.ingitdb/collections/todo/notes/notes.json)]
+  - [**Tags**](https://github.com/ingitdb/ingitdb-demo-db/tree/main/collections/todo/tags) [[schema](https://github.com/ingitdb/ingitdb-demo-db/blob/main/.ingitdb/collections/todo/tags/tags.json)]
 
 ## It's free to use and is Open Source under [MIT License](https://opensource.org/licenses/MIT)
 
