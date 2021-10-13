@@ -68,3 +68,9 @@ It that has next sample datasets:
 - **ToDo**
   - [Notes](https://github.com/ingitdb/ingitdb-demo-db/tree/main/collections/todo/notes)
   - [Tags](https://github.com/ingitdb/ingitdb-demo-db/tree/main/collections/todo/tags)
+
+## Open Source
+
+- [https://github.com/ingitdb/ingitdb-ts](https://github.com/ingitdb/ingitdb-ts) - IngitDB client in TypeScript
+- [https://github.com/ingitdb/ingitdb-github-action](https://github.com/ingitdb/ingitdb-github-action) - IngitDB engine that performs actions and modifications on commits to a database
+- [https://github.com/ingitdb/ingitdb-schema](https://github.com/ingitdb/ingitdb-schema) - JSON schema definition for `.ingitdb` objects
