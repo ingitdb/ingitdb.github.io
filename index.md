@@ -8,8 +8,14 @@ IngitDB is driven by [IngitDB GuitHub Action](https://github.com/ingitdb/ingitdb
   - restore to any point in a time as a new branch
 - schema definition
   - check constraints
-  - foreighn keys
+  - foreign keys & lookup
   - views
+    - filters
+    - limited number of fields
+    - operators & formulas (`IIF`, '+/-*', etc.)
+    - `group by` operation
+      - `having` condition
+      - aggregation formulas (`SUM`, `COUNT`, etc.)
   - triggers
 - transactions
 - webhooks
