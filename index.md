@@ -12,7 +12,8 @@ IngitDB is driven by [IngitDB GuitHub Action](https://github.com/ingitdb/ingitdb
   - views
     - filters
     - limited number of fields
-    - operators & formulas (`IIF`, '+/-*', etc.)
+    - operators (`+`, `-`, `/`, `*`, etc.)
+    - formulas (`IIF`, `LEN`, `SUBSTR`, etc.)
     - `group by` operation
       - `having` condition
       - aggregation formulas (`SUM`, `COUNT`, etc.)
