@@ -49,11 +49,13 @@ Also it is hosted at GitHub so you basically can run it for free.
 
 While IngitDB can act as a operational database it was not desined for this purpose as it would not be quick and would not scale.
 
+It also would not be a good choice for a DB with 100s of thouthands of records. 10th of thouthands might be OK though.
+
 IngitDB was designed and is good for:
 
 - Keeping & providing reference data
 - Settings & metadata storage
-- Data entry & data collection with entegrity constraints and data validation
+- Data entry & data collection with integrity constraints and data validation
 
 ## Example database
 
