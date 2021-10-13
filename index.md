@@ -1,4 +1,4 @@
-# IngitDB - git versioned & branchable JSON database hosted at GitHub
+# IngitDB - git versioned & branchable JSON DB hosted at GitHub
 
 IngitDB is driven by GuitHub Actions and supports:
 - schema definition
