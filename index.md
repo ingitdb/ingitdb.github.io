@@ -7,8 +7,8 @@ IngitDB is somewhat like static site CMS (*[GitHub Pages](https://pages.github.c
 ## This means:
 
 - you do not need an application layer to:
-  - edit data in an IndigoDB
-  - query data from IndigoDB
+  - edit data in an IngitDB
+  - query data from IngitDB
 - there is no out of box access rights separation on per user/data - you either have access to the whole DB or you don't
   - You can create your own GitHub action to restrict **editing** of data
     - In future IngitDB might offer such functionality out of the box 
