@@ -37,7 +37,7 @@ IngitDB was designed and is good for:
 
 - Keeping & providing reference data
 - Settings & metadata storage
-- Data entry & data collection
+- Data entry & data collection with entegrity constraints and data validation
 
 ## Example database
 
