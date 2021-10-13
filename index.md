@@ -1,6 +1,15 @@
 # IngitDB - git versioned & branchable JSON DB hosted at GitHub
 
-IngitDB is driven by [IngitDB GuitHub Action](https://github.com/ingitdb/ingitdb-github-action) and supports:
+IngitDB is a dynamic (*e.g. writable*) but statically hosted database driven by [IngitDB GuitHub Action](https://github.com/ingitdb/ingitdb-github-action)
+
+This means:
+- you do not need app layer to query data from IndigoDB
+- response times for reads are very low
+- it is very scalable for read operations
+
+Also it is hosted at GitHub so you basically can run it for free.
+
+It supports:
 
 - multi-versioning
   - mergin of branches
