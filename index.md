@@ -61,7 +61,7 @@ IngitDB was designed and is good for:
 
 There is a publicly available IngitDB demo database - [https://github.com/ingitdb/ingitdb-demo-db](https://github.com/ingitdb/ingitdb-demo-db)
 
-You can alsow view & edit IngitDB data in a [https://ingitdb.com/app/at/github.com/repo/ingitdb-demo-db~main@ingitdb](web app).
+You can alsow view & edit IngitDB data in a [web app](https://ingitdb.com/app/at/github.com/repo/ingitdb-demo-db~main@ingitdb).
 
 The demo database has few sample datasets:
 
