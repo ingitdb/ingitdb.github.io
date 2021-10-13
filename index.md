@@ -3,7 +3,9 @@
 IngitDB is a dynamic (*e.g. writable*) but statically hosted database driven by [IngitDB GuitHub Action](https://github.com/ingitdb/ingitdb-github-action)
 
 This means:
-- you do not need app layer to query data from IndigoDB
+- you do not need an application layer to query data from IndigoDB
+- there is no access rights separation on per user/data - you either have access to the whole DB or you don't
+- users can have either `readonly` or `readwrite` permissions for a database 
 - response times for reads are very low
 - it is very scalable for read operations
 
