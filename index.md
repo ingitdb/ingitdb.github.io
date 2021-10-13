@@ -1,17 +1,24 @@
 # IngitDB - git versioned & branchable JSON DB hosted at GitHub
 
-IngitDB is a dynamic (*e.g. writable*) but statically hosted database driven by [IngitDB GuitHub Action](https://github.com/ingitdb/ingitdb-github-action)
+IngitDB is a dynamic (*e.g. writable*) but statically hosted database driven by [IngitDB GuitHub Action](https://github.com/ingitdb/ingitdb-github-action).
 
-This means:
-- you do not need an application layer to query data from IndigoDB
-- there is no access rights separation on per user/data - you either have access to the whole DB or you don't
+IngitDB is somewhat like static site CMS (*[Hugo](https://github.com/gohugoio/hugo), [Jekyll](https://github.com/jekyll/jekyll), etc.*) but a database.
+
+## This means:
+
+- you do not need an application layer to:
+  - edit data in an IndigoDB
+  - query data from IndigoDB
+- there is no out of box access rights separation on per user/data - you either have access to the whole DB or you don't
+  - You can create your own GitHub action to restrict **editing** of data
+    - In future IngitDB might offer such functionality out of the box 
 - users can have either `readonly` or `readwrite` permissions for a database 
 - response times for reads are very low
 - it is very scalable for read operations
 
 Also it is hosted at GitHub so you basically can run it for free.
 
-It supports:
+## It supports:
 
 - multi-versioning
   - mergin of branches
@@ -37,8 +44,6 @@ It supports:
 - webhooks
 - REST endpoints for views and individual records
 - REST API for editing
-
-IngitDB is somewhat like static site CMS (*Hugo, Jekyll, etc.*) but a database.
 
 ## When use and when not to use IngitDB
 
